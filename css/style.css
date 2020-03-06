@@ -10,6 +10,8 @@ html,
   margin: 0;
   padding: 0;
   width: 100%;
+  background-color: #000;
+  color: #d0d0d0;
 }
 
 /* Center the content in the browser window */
@@ -20,4 +22,16 @@ html,
 
 .title {
   font-size: 3rem;
+}
+
+button {
+  color: #d0d0d0;
+  background-color: #202020;
+  border: none;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.json {
+  text-align: left;
 }
